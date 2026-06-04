@@ -28,7 +28,7 @@
 const vudev = {
   name:     "Trần Quốc Vũ",
   github:   "@vudev-05",
-  role:     "CEO & Fullstack Developer",
+  role:     "Fullstack Developer",
   school:   "HUTECH K2023",
   location: "Thủ Đức, TP.HCM 🇻🇳",
   contact:  "0869 226 687",
@@ -192,18 +192,11 @@ Dịch vụ Locket Gold VIP #1 Việt Nam
 
 ---
 
-### 🐍 Snake
+### Snake contribution animation
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vudev-05/vudev-05/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vudev-05/vudev-05/output/github-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/vudev-05/vudev-05/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-> ⚙️ [Actions](https://github.com/vudev-05/vudev-05/actions) → **Generate Snake Animation** → **Run workflow**
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vudev-05/vudev-05/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
