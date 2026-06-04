@@ -1,16 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a2e,60:16213e,100:0f3460&height=260&section=header&text=Trần%20Quốc%20Vũ&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=✦%20vudev%20%E2%80%94%20Fullstack%20Developer%20%E2%80%94%20Builder%20%E2%80%94%20HUTECH%20K2023%20✦&descAlignY=55&descSize=17&animation=fadeIn&stroke=ffffff&strokeWidth=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Trần%20Quốc%20Vũ&fontSize=78&fontColor=ffffff&fontAlignY=40&desc=CEO%20%26%20Fullstack%20Developer%20%7C%20vudev&descAlignY=60&descSize=22&animation=fadeIn"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&multiline=false&width=680&lines=👑+Locket+Gold+VIP+%231+Việt+Nam+-+locketgold.app;🚀+Fullstack+Developer+%40+HUTECH+K2023;⚡+Next.js+%7C+Laravel+%7C+React+%7C+PHP+%7C+Node.js;🏆+Finalist+—+Website+%26+AI+Innovation+Contest+2026;🌐+14.000%2B+users+on+addlocket.app;💼+CEO+%26+Founder+—+Hệ+sinh+thái+VUDEV" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=👑+Locket+Gold+VIP+%231+—+locketgold.app;🤝+AddLocket+—+14%2C241%2B+users;🛒+VUDEV+Digital+Ecosystem+founder;🏆+Finalist+AI+Innovation+Contest+2026;🎓+HUTECH+Software+Engineering+K2023" alt="Typing" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vudev-05&label=👁%20VIEWS&color=f59e0b&style=for-the-badge&abbreviated=true)](https://github.com/vudev-05)
-&ensp;
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-tranquocvu.website-0ea5e9?style=for-the-badge&labelColor=0f172a)](https://tranquocvu.website)
-&ensp;
-[![Open to Work](https://img.shields.io/badge/⚡_STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge&labelColor=0f172a)](https://tranquocvu.website)
+[![Views](https://komarev.com/ghpvc/?username=vudev-05&label=Profile+Views&color=00d2ff&style=flat-square)](https://github.com/vudev-05)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-tranquocvu.website-00d2ff?style=flat-square&logo=safari&logoColor=white)](https://tranquocvu.website)
+&nbsp;&nbsp;
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)](https://tranquocvu.website)
 
 </div>
 
@@ -18,218 +20,188 @@
 
 ---
 
-## 🧑‍💻 Về tôi &nbsp;·&nbsp; About Me
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+### 👨‍💻 About Me
 
-```typescript
+```ts
 const vudev = {
-  name:        "Trần Quốc Vũ",
-  alias:       "vudev",
-  github:      "@vudev-05",
-  born:        2003,
-  role:        "CEO & Fullstack Web Developer",
-  university:  "HUTECH — Software Engineering",
-  year:        "K2023 (Year 3) 🎓",
-  location:    "Thủ Đức, TP.HCM 🇻🇳",
-
-  ecosystem: {
-    "locketgold.app":   "👑 Locket Gold VIP — #1 Vietnam",
-    "addlocket.app":    "🤝 Friend Network — 14,241+ users",
-    "vudev.shop":       "🛒 Digital Products Platform",
-    "vudev.io.vn":      "💼 Web Development Agency",
-    "tranquocvu.com":   "🔥 Locket Gold Linktree",
-    "tranquocvu.website":"🌐 Personal Portfolio",
-  },
-
-  achievement: "🏆 Finalist — Website & AI Innovation Contest 2026",
-  phone:       "0869 226 687",
-  status:      "✅ Ready for internship / full-time work",
+  name:     "Trần Quốc Vũ",
+  github:   "@vudev-05",
+  role:     "CEO & Fullstack Developer",
+  school:   "HUTECH K2023",
+  location: "Thủ Đức, TP.HCM 🇻🇳",
+  contact:  "0869 226 687",
 };
 ```
 
-<br/>
-
-- 👑 &nbsp; Người sáng lập **hệ sinh thái VUDEV** — 6 website đang hoạt động
-- 🔭 &nbsp; Đang build **[AddLocket.App](https://addlocket.app)** — Nền tảng kết bạn Locket **14,241+ thành viên**
-- 🌱 &nbsp; Đang học sâu **Next.js 16 · Prisma ORM · TanStack Query · Hono.js**
-- 🏆 &nbsp; **LIKEFOOD** — Finalist **Website & AI Innovation Contest 2026**
-- 💬 &nbsp; Hỏi tôi về **PHP · Laravel · React · Next.js · SEO kỹ thuật**
-- ⚡ &nbsp; Tự deploy & vận hành hệ thống web **sinh lợi nhuận** từ năm 2 đại học!
+- 👑 &nbsp;Founder — **[locketgold.app](https://locketgold.app)** · **[addlocket.app](https://addlocket.app)** · **[vudev.shop](https://vudev.shop)**
+- 🌱 &nbsp;Đang học sâu **Next.js 16 · Prisma · TanStack · Hono.js**
+- 🏆 &nbsp;**LIKEFOOD** — Finalist **Website & AI Innovation Contest 2026**
+- ⚡ &nbsp;Tự vận hành hệ thống web **sinh lợi nhuận** từ năm 2 đại học!
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Hệ Sinh Thái &nbsp;·&nbsp; My Ecosystem
+### 🌐 My Ecosystem
 
 <div align="center">
 
-| 🔗 Website | 📝 Mô tả | 🛠️ Tech |
-|:---:|:---|:---:|
-| [**👑 locketgold.app**](https://locketgold.app) | Dịch vụ Locket Gold VIP #1 Việt Nam | `PHP` `MySQL` `JS` |
-| [**🤝 addlocket.app**](https://addlocket.app) | Nền tảng kết bạn Locket — 14,241+ users | `PHP` `MySQL` `Tailwind` |
-| [**🛒 vudev.shop**](https://vudev.shop) | Tài khoản Premium & Dịch vụ số | `Laravel 12` `PHP 8.2` |
-| [**💼 vudev.io.vn**](https://vudev.io.vn) | Web Development Agency | `PHP` `JS` `SEO` |
-| [**🌐 tranquocvu.website**](https://tranquocvu.website) | Portfolio cá nhân — Editorial 3D | `Vanilla JS` `CSS3` |
-| [**🔥 tranquocvu.com**](https://tranquocvu.com) | Locket Gold Linktree VIP | `PHP` `JS` |
+[![locketgold.app](https://img.shields.io/badge/👑_locketgold.app-Locket_Gold_VIP_%231-f59e0b?style=for-the-badge&labelColor=1a0e00)](https://locketgold.app)
+[![addlocket.app](https://img.shields.io/badge/🤝_addlocket.app-14%2C241%2B_users-3b82f6?style=for-the-badge&labelColor=00101a)](https://addlocket.app)
+
+[![vudev.shop](https://img.shields.io/badge/🛒_vudev.shop-Digital_Products-22c55e?style=for-the-badge&labelColor=001a0e)](https://vudev.shop)
+[![vudev.io.vn](https://img.shields.io/badge/💼_vudev.io.vn-Web_Agency-8b5cf6?style=for-the-badge&labelColor=0d001a)](https://vudev.io.vn)
+
+[![tranquocvu.website](https://img.shields.io/badge/🌐_tranquocvu.website-Portfolio-00d2ff?style=for-the-badge&labelColor=001a1a)](https://tranquocvu.website)
+[![tranquocvu.com](https://img.shields.io/badge/🔥_tranquocvu.com-Locket_Linktree-ef4444?style=for-the-badge&labelColor=1a0000)](https://tranquocvu.com)
 
 </div>
 
 ---
 
-## 🌐 Kết nối &nbsp;·&nbsp; Connect
+### 🔗 Connect
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/vudev05)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vudev05)
-[![GitHub](https://img.shields.io/badge/GITHUB-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vudev-05)
-[![Zalo](https://img.shields.io/badge/ZALO-0068FF.svg?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0869226687)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/vudev05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vudev05)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vudev-05)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0869226687)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚡ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### 🔧 Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0074a3?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0074a3?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### 🚀 Tools & Deploy
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Dự Án Nổi Bật &nbsp;·&nbsp; Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🍜 [LIKEFOOD](https://likefood.app)
-> **E-Commerce cross-border** — Đặc sản Việt Nam ra thế giới
+**🍜 [LIKEFOOD](https://likefood.app)**
 
-- 🤖 AI Chatbot tích hợp **OpenAI GPT**
-- 💳 **Stripe** — Thanh toán quốc tế
-- 📊 Admin dashboard **real-time**
-- 🏆 **Finalist** — AI Innovation Contest 2026
+E-Commerce cross-border đặc sản Việt Nam
 
-`Next.js 16` `React 19` `Prisma` `Stripe` `OpenAI`
+- 🤖 AI Chatbot — OpenAI GPT
+- 💳 Stripe checkout quốc tế
+- 🏆 **Finalist** AI Innovation 2026
+
+`Next.js 16` `React 19` `Prisma` `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [ADDLOCKET.APP](https://addlocket.app)
-> **Nền tảng kết bạn Locket** — 14,241+ thành viên
+**🤝 [ADDLOCKET.APP](https://addlocket.app)**
 
-- 👥 **14,241+** hồ sơ người dùng thực
-- 💬 Hệ thống like, comment, nhắn tin
-- 🔍 Tìm kiếm theo sở thích, quốc gia
-- 📱 **PWA** — Cài đặt như app thật
+Nền tảng kết bạn Locket — 14,241+ users
 
-`PHP` `MySQL` `Tailwind CSS` `JavaScript`
+- 👥 Like, comment, nhắn tin
+- 🔍 Filter theo sở thích, quốc gia
+- 📱 PWA — cài đặt như app thật
+
+`PHP` `MySQL` `Tailwind` `JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [VUDEV.SHOP](https://vudev.shop)
-> **Digital Products Platform** — Tài khoản Premium
+**🛒 [VUDEV.SHOP](https://vudev.shop)**
 
-- ⚡ Server-rendered **cực nhanh**
-- 🔐 Auth + Payment + Wallet system
-- 📦 Tài khoản số **tự động giao hàng**
-- 🏗️ Kiến trúc **MVC Laravel chuẩn**
+Digital Products Platform
 
-`Laravel 12` `PHP 8.2` `Blade` `Tailwind 4`
+- ⚡ Giao hàng tự động tức thì
+- 🔐 Auth + Payment + Wallet
+- 🏗️ Laravel MVC Architecture
+
+`Laravel 12` `PHP 8.2` `Tailwind 4`
 
 </td>
 <td width="50%" valign="top">
 
-### 👑 [LOCKETGOLD.APP](https://locketgold.app)
-> **Dịch vụ Locket Gold VIP #1** Việt Nam
+**👑 [LOCKETGOLD.APP](https://locketgold.app)**
 
-- 📱 Hỗ trợ **Android & iOS**
-- ♾️ Bảo hành **vĩnh viễn**
-- ⚡ Nâng cấp **tự động 5 giây**
-- 👥 **1,000+** khách hàng tin tưởng
+Dịch vụ Locket Gold VIP #1 Việt Nam
 
-`PHP` `JavaScript` `MySQL` `Cloudflare`
+- ⚡ Nâng cấp tự động 5 giây
+- ♾️ Bảo hành vĩnh viễn
+- 👥 1,000+ khách hàng tin tưởng
+
+`PHP` `MySQL` `Cloudflare`
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=vudev-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f172a&title_color=f59e0b&icon_color=3b82f6&text_color=e2e8f0&border_radius=12" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vudev-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d2ff&icon_color=f59e0b&text_color=c9d1d9&border_radius=10" alt="Stats"/>
 &nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudev-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0f172a&title_color=f59e0b&text_color=e2e8f0&border_radius=12" alt="Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudev-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&border_radius=10" alt="Languages"/>
 
 <br/><br/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=vudev-05&theme=tokyonight-duo&hide_border=true&background=0f172a&ring=f59e0b&fire=ef4444&currStreakLabel=f59e0b&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="Streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=vudev-05&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d2ff&fire=f59e0b&currStreakLabel=00d2ff&border_radius=10" alt="Streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Activity
 
 <div align="center">
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=vudev-05&theme=tokyo-night&hide_border=true&area=true&area_color=f59e0b&color=f59e0b&line=3b82f6&point=ffffff&bg_color=0f172a&radius=8" alt="Graph"/>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vudev-05&theme=tokyo-night&hide_border=true&area=true&color=00d2ff&line=3b82f6&point=f59e0b&bg_color=0d1117" alt="Activity"/>
 </div>
 
 ---
 
-## 🐍 Snake Contribution
+### 🐍 Snake
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vudev-05/vudev-05/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vudev-05/vudev-05/output/github-snake.svg"/>
-  <img alt="Snake" src="https://raw.githubusercontent.com/vudev-05/vudev-05/output/github-snake-dark.svg" width="100%"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/vudev-05/vudev-05/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> 💡 Vào **[Actions](https://github.com/vudev-05/vudev-05/actions)** → **"Generate Snake Animation"** → **"Run workflow"** để kích hoạt 🐍
+> ⚙️ [Actions](https://github.com/vudev-05/vudev-05/actions) → **Generate Snake Animation** → **Run workflow**
 
 </div>
 
@@ -239,8 +211,8 @@ const vudev = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 
-<br/><br/>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:0f0c29&height=140&section=footer&fontSize=14&fontColor=f59e0b&text=🌟%20Thanks%20for%20visiting!%20Give%20a%20⭐%20if%20you%20like%20my%20work!&fontAlignY=72&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks+for+visiting!+⭐+Give+a+star!&fontSize=16&fontColor=00d2ff&fontAlignY=75"/>
 
 </div>
